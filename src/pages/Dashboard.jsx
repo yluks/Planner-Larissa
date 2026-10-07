@@ -45,7 +45,7 @@ export default function Dashboard() {
 
   return (
     <>
-      <h1 className="titulo-pagina">Planner ENARE Odonto</h1>
+      <h1 className="titulo-pagina">Planner de Estudos Odonto</h1>
       <p className="saudacao">
         {SAUDACOES(agora.getHours())}
         {nome ? `, ${nome}` : ''}! 🌷 {nome ? '' : <a href="#/ajustes" className="link-suave">(defina seu nome nos ajustes)</a>}
