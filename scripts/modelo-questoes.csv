@@ -1,0 +1,4 @@
+exame;ano;programa;banca;numero;area;assunto;enunciado;A;B;C;D;E;gabarito;anulada;comentario;link_prova;link_gabarito
+EXEMPLO;2024;Odontologia;FGV;1;anestesia;Dose máxima de anestésico;"Apague esta linha. Exemplo: qual a dose máxima recomendada de lidocaína com epinefrina, em mg/kg?";2,0;4,4;7,0;10,0;;C;;Escreva aqui o comentário da questão.;https://link-da-prova.pdf;https://link-do-gabarito.pdf
+EXEMPLO;2024;Odontologia;FGV;2;sus;Princípios do SUS;"Apague esta linha. Enunciados com quebra de linha
+ou ponto e vírgula; precisam ficar entre aspas.";Universalidade;Hierarquização;Regionalização;Descentralização;Participação popular;A;;;;
